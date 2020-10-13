@@ -5,6 +5,7 @@ linkedin: chen-yuki-5a39b540
 twitter: guhe120
 github: guhe120
 cves:
+  - CVE-2016-3375
   - CVE-2014-0290
   - CVE-2014-0321
   - CVE-2014-1753
@@ -89,7 +90,6 @@ cves:
   - CVE-2016-4183
   - CVE-2016-4184
   - CVE-2016-4185
-  - CVE-2016-4185
   - CVE-2016-4186
   - CVE-2016-4187
   - CVE-2016-4233
@@ -107,20 +107,201 @@ cves:
   - CVE-2016-4245
   - CVE-2016-4246
   - CVE-2016-4249
+  - CVE-2017-0228
   - CVE-2017-0236
   - CVE-2017-0238
+  - CVE-2017-11846
+  - CVE-2017-11887
+  - CVE-2017-11913
   - CVE-2017-3001
   - CVE-2017-3002
   - CVE-2017-3003
   - CVE-2017-8549
   - CVE-2017-8619
+  - CVE-2017-8753
+  - CVE-2018-0798
+  - CVE-2018-0801
   - CVE-2018-0802
+  - CVE-2018-0804
+  - CVE-2018-0805
+  - CVE-2018-0806
+  - CVE-2018-0807
+  - CVE-2018-0812
+  - CVE-2018-0834
+  - CVE-2018-0845
+  - CVE-2018-0848
+  - CVE-2018-0849
+  - CVE-2018-0862
+  - CVE-2018-0866
+  - CVE-2018-0872
+  - CVE-2018-0951
+  - CVE-2018-0953
+  - CVE-2018-0954
+  - CVE-2018-0955
+  - CVE-2018-0981
+  - CVE-2018-0987
+  - CVE-2018-0988
+  - CVE-2018-0989
+  - CVE-2018-0994
+  - CVE-2018-0997
+  - CVE-2018-1000
+  - CVE-2018-1004
+  - CVE-2018-1022
+  - CVE-2018-8114
+  - CVE-2018-8122
   - CVE-2018-8174
+  - CVE-2018-8236
+  - CVE-2018-8242
+  - CVE-2018-8367
+  - CVE-2018-8372
+  - CVE-2018-8544
+  - CVE-2018-8618
+  - CVE-2019-0567
+  - CVE-2019-0591
+  - CVE-2019-0592
+  - CVE-2019-0605
+  - CVE-2019-0606
+  - CVE-2019-0610
+  - CVE-2019-0611
+  - CVE-2019-0639
+  - CVE-2019-0649
+  - CVE-2019-0651
+  - CVE-2019-0652
+  - CVE-2019-0655
+  - CVE-2019-0658
+  - CVE-2019-0665
+  - CVE-2019-0666
+  - CVE-2019-0667
+  - CVE-2019-0680
+  - CVE-2019-0752
+  - CVE-2019-0753
+  - CVE-2019-0756
+  - CVE-2019-0771
+  - CVE-2019-0772
+  - CVE-2019-0773
+  - CVE-2019-0784
+  - CVE-2019-0790
+  - CVE-2019-0791
+  - CVE-2019-0792
+  - CVE-2019-0793
+  - CVE-2019-0794
+  - CVE-2019-0795
+  - CVE-2019-0806
+  - CVE-2019-0810
+  - CVE-2019-0829
+  - CVE-2019-0835
+  - CVE-2019-0842
+  - CVE-2019-0862
+  - CVE-2019-0885
+  - CVE-2019-0911
+  - CVE-2019-0912
+  - CVE-2019-0917
+  - CVE-2019-0918
+  - CVE-2019-0920
+  - CVE-2019-0988
+  - CVE-2019-0990
+  - CVE-2019-0992
+  - CVE-2019-0993
+  - CVE-2019-1001
+  - CVE-2019-1002
+  - CVE-2019-1003
+  - CVE-2019-1004
+  - CVE-2019-1005
+  - CVE-2019-1055
+  - CVE-2019-1056
+  - CVE-2019-1057
+  - CVE-2019-1059
+  - CVE-2019-1060
   - CVE-2019-1138
   - CVE-2019-1217
+  - CVE-2019-1221
+  - CVE-2019-1236
   - CVE-2019-1237
+  - CVE-2019-1238
+  - CVE-2019-1239
   - CVE-2019-1298
   - CVE-2019-1300
+  - CVE-2019-1390
+  - CVE-2019-1484
+  - CVE-2019-1485
+  - CVE-2020-0640
+  - CVE-2020-0824
+  - CVE-2020-0831
+  - CVE-2020-0832
+  - CVE-2020-0833
+  - CVE-2020-0847
+  - CVE-2020-0895
+  - CVE-2020-0912
+  - CVE-2020-0922
+  - CVE-2020-0966
+  - CVE-2020-0967
   - CVE-2020-1015
+  - CVE-2020-1021
+  - CVE-2020-1035
+  - CVE-2020-1052
+  - CVE-2020-1056
+  - CVE-2020-1058
+  - CVE-2020-1060
+  - CVE-2020-1061
+  - CVE-2020-1064
+  - CVE-2020-1067
+  - CVE-2020-1085
+  - CVE-2020-1093
+  - CVE-2020-1130
+  - CVE-2020-1132
+  - CVE-2020-1133
+  - CVE-2020-1197
+  - CVE-2020-1202
+  - CVE-2020-1203
+  - CVE-2020-1212
+  - CVE-2020-1214
+  - CVE-2020-1215
+  - CVE-2020-1216
+  - CVE-2020-1230
+  - CVE-2020-1234
+  - CVE-2020-1255
+  - CVE-2020-1257
+  - CVE-2020-1260
+  - CVE-2020-1261
+  - CVE-2020-1271
+  - CVE-2020-1278
+  - CVE-2020-1281
+  - CVE-2020-1293
+  - CVE-2020-1336
+  - CVE-2020-1354
+  - CVE-2020-1365
+  - CVE-2020-1371
+  - CVE-2020-1373
+  - CVE-2020-1376
+  - CVE-2020-1383
+  - CVE-2020-1388
+  - CVE-2020-1389
+  - CVE-2020-1390
+  - CVE-2020-1403
+  - CVE-2020-1406
+  - CVE-2020-1411
+  - CVE-2020-1419
+  - CVE-2020-1427
+  - CVE-2020-1428
+  - CVE-2020-1430
+  - CVE-2020-1437
+  - CVE-2020-1491
+  - CVE-2020-1519
+  - CVE-2020-1534
+  - CVE-2020-1535
+  - CVE-2020-1536
+  - CVE-2020-1539
+  - CVE-2020-1540
+  - CVE-2020-1541
+  - CVE-2020-1542
+  - CVE-2020-1543
+  - CVE-2020-1544
+  - CVE-2020-1545
+  - CVE-2020-1546
+  - CVE-2020-1547
+  - CVE-2020-1551
+  - CVE-2020-1567
+  - CVE-2020-1579
+  - CVE-2020-1598
 ---
-Yuki Chen is the core member of 360Vulcan Team from 360 Safeguard offensive and defensive research group. In March of this year, the 360Vulcan Team successfully exploited 64-bit Internet Explorer with EPM enabled at Pwn2Own 2015 in Vancouver, Canada. Yuki Chen has over six years experience in the security industry and currently manages a team focused on vulnerability research at Qihoo 360. He is mostly interested in vulnerability hunting and analyzing and exploit development. He has discovered vulnerabilities in a wide range of products including browsers, Adobe flash/pdf, Java, and so on. He has spoken at several security conferences such as SysCan, Xcon and SysCan360. 
+Yuki Chen is a core member of 360Vulcan Team from 360 Safeguard offensive and defensive research group. In March of this year, the 360Vulcan Team successfully exploited 64-bit Internet Explorer with EPM enabled at Pwn2Own 2015 in Vancouver, Canada. Yuki Chen has over six years experience in the security industry and currently manages a team focused on vulnerability research at Qihoo 360. He is mostly interested in vulnerability hunting and analyzing and exploit development. He has discovered vulnerabilities in a wide range of products including browsers, Adobe flash/pdf, Java, and so on. He has spoken at several security conferences such as SysCan, Xcon and SysCan360. 
