@@ -88,3 +88,4 @@ cves:
   - CVE-2020-1471
   - CVE-2020-1509
 ---
+James is a security researcher in Google’s Project Zero. He has been involved with computer hardware and software security for over 10 years looking at a range of different platforms and applications. With a great interest in logical vulnerabilities he’s been listed as the #1 researcher for MSRC, as well as being a Pwn2Own and Microsoft Mitigation Bypass bounty winner. He has spoken at a number of security conferences including Black Hat USA, CanSecWest, Bluehat, HITB, and Infiltrate.
