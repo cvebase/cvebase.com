@@ -18,7 +18,6 @@ cves:
   - CVE-2020-0636
   - CVE-2020-0638
   - CVE-2020-0641
-  - CVE-2020-0648
   - CVE-2020-0697
   - CVE-2020-0730
   - CVE-2020-0747
@@ -184,5 +183,6 @@ cves:
   - CVE-2020-16879
   - CVE-2020-3808
   - CVE-2020-5957
+  - CVE-2020-0648
 ---
 Zhiniang (Edward) Peng works as a security researcher at Qihoo 360 Core Security, with a focus on applied cryptography, software security and threat hunting.
