@@ -1,6 +1,6 @@
 ---
 name: Oleksandr Mirosh
-alias: Oleksandr Mirosh
+alias: oleksandr-mirosh
 twitter: olekmirosh
 cves:
   - CVE-2017-8565
