@@ -1,6 +1,7 @@
 ---
 name: Samuel Groß
 alias: saelo
+nationality: us
 website: https://saelo.github.io/
 twitter: 5aelo
 github: saelo

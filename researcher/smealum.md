@@ -1,6 +1,7 @@
 ---
 name: Jordan Rabet
 alias: smealum
+nationality: us
 linkedin: jorab
 twitter: smealum
 github: smealum

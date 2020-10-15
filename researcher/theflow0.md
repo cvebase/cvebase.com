@@ -1,6 +1,7 @@
 ---
 name: Andy Nguyen
 alias: theflow0
+nationality: ch
 twitter: theflow0
 github: TheOfficialFloW
 linkedin: andy-nguyen-b2906b194

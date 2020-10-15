@@ -1,6 +1,7 @@
 ---
 name: Jonas Lykkegård
 alias: jonaslyk
+nationality: dk
 linkedin: jonas-lykkegaard-948039a2
 twitter: jonaslyk
 cves:

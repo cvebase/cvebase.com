@@ -1,6 +1,7 @@
 ---
 name: Mateusz Jurczyk
 alias: j00ru
+nationality: ch
 website: https://j00ru.vexillium.org
 twitter: j00ru
 github: j00ru

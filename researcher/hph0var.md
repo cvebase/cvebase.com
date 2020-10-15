@@ -1,6 +1,7 @@
 ---
 name: Huynh Phuoc Hung
 alias: hph0var
+nationality: vn
 twitter: hph0var
 cves:
     - CVE-2019-0830

@@ -1,6 +1,7 @@
 ---
 name: Bar Lahav
 alias: bar-lahav
+nationality: il
 linkedin: bar-lahav-32ab641a9
 cves:
   - CVE-2019-0538

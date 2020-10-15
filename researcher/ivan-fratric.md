@@ -1,6 +1,7 @@
 ---
 name: Ivan Fratric
 alias: ivan-fratric
+nationality: hr
 website: http://ifsec.blogspot.com
 twitter: ifsecure
 cves:

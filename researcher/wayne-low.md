@@ -1,6 +1,7 @@
 ---
 name: Wayne Low Chin Yick
 alias: wayne-low
+nationality: sg
 linkedin: wayne-low-chin-yick-b1291635
 twitter: x9090
 cves:

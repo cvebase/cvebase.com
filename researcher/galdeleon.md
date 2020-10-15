@@ -1,6 +1,7 @@
 ---
 name: Gal De Leon
 alias: galdeleon
+nationality: il
 linkedin: gal-de-leon-a837b724
 twitter: galdeleon
 github: galdeleon
