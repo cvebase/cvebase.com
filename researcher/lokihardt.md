@@ -1,6 +1,7 @@
 ---
 name: Junghoon Lee
 alias: lokihardt
+nationality: kr
 twitter: lokihardt
 cves:
     - CVE-2017-0070

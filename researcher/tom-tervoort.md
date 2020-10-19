@@ -1,6 +1,7 @@
 ---
 name: Tom Tervoort
 alias: tom-tervoort
+nationality: nl
 cves:
   - CVE-2019-1424
   - CVE-2020-1472

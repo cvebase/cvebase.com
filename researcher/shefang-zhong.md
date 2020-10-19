@@ -1,6 +1,7 @@
 ---
 name: Shefang Zhong
 alias: shefang-zhong
+nationality: cn
 linkedin: shefang-zhong-4aaa4a103
 cves:
     - CVE-2020-0623

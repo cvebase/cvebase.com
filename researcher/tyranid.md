@@ -1,6 +1,7 @@
 ---
 name: James Forshaw
 alias: tyranid
+nationality: us
 website: https://www.tiraniddo.dev
 linkedin: james-forshaw-ab833725
 github: tyranid

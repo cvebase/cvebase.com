@@ -1,6 +1,7 @@
 ---
 name: Ke Liu
 alias: klotxl404
+nationality: cn
 twitter: klotxl404
 cves:
   - CVE-2016-3203

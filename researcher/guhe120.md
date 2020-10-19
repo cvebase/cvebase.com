@@ -1,6 +1,7 @@
 ---
 name: Yuki Chen
 alias: guhe120
+nationality: cn
 linkedin: chen-yuki-5a39b540
 twitter: guhe120
 github: guhe120

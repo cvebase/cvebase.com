@@ -1,6 +1,7 @@
 ---
 name: Natalie Silvanovich
 alias: natashenka
+nationality: ca
 website: http://natashenka.ca/
 twitter: natashenka
 github: natashenka

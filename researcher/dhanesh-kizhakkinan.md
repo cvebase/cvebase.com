@@ -1,6 +1,7 @@
 ---
 name: Dhanesh Kizhakkinan
 alias: dhanesh-kizhakkinan
+nationality: us
 linkedin: dhanesh-kizhakkinan
 twitter: dhanesh_k
 cves:
