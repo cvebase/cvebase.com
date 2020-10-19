@@ -1,6 +1,7 @@
 ---
 name: Gil Dabah
 alias: arkon
+nationality: il
 website: https://www.ragestorm.net
 twitter: _arkon
 github: gdabah

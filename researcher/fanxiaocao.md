@@ -1,6 +1,7 @@
 ---
 name: fanxiaocao
 alias: fanxiaocao
+nationality: cn
 website: https://www.iceswordlab.com
 twitter: tinysecex
 github: tinysec
