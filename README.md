@@ -1,17 +1,15 @@
-# cvebase.com
+# cvebase.com Wiki Data Repository
 
-This is an official cvebase repository that houses the open source content for CVE & Researcher data. Updates to this repository are regularly synced with the CVE and Researcher profile pages at [www.cvebase.com](https://www.cvebase.com/).
+This is the official data repository of CVE & Researcher data for cvebase. Updates are synced with the CVE and Researcher profile pages at [cvebase.com](https://www.cvebase.com/).
 
 ![](assets/cvebase_examples.png)
 
 ### What is cvebase?
 cvebase is a community-driven data platform for security vulnerabilities, developed for use by security researchers, penetration testers, and bug bounty hunters.
 
-Features:
-* Researcher bios featuring their published CVEs to date
-* Community commentary enhancing and clarifying official CVE advisories
-* Comprehensive references to proof-of-concept exploits
-* Alternative vendor/product metadata for missing or incomplete Common Platform Enumerations (CPE)
+* Researcher profiles feature their published CVEs to date.
+* Community commentary enhances and clarifies official CVE vendor advisories.
+* References link to valid Proof-of-Concept Exploits and detailed technical writeups.
 
 ## Usage
 CVE files are located in the `/cve/` directory, organized by year and sequence identifier following the convention set by [`CVEProject/cvelist`](https://github.com/CVEProject/cvelist):
@@ -20,7 +18,7 @@ CVE files are located in the `/cve/` directory, organized by year and sequence i
 
 Researcher profiles are in the `/researcher/` directory, named by researcher slug.
 
-Inspired by the popular static site generator [`gohugoio/hugo`](https://github.com/gohugoio/hugo) , the files are Markdown format with YAML-based "front matter" for metadata.
+Inspired by static site generator [`gohugoio/hugo`](https://github.com/gohugoio/hugo), the Markdown file have YAML "front matter" to define metadata for both CVEs and Researchers.
 
 See example files here:
 * [/cve/2020/15xxx/CVE-2020-15505.md](https://raw.githubusercontent.com/cvebase/cvebase.com/main/cve/2020/15xxx/CVE-2020-15505.md)
