@@ -1,5 +1,5 @@
 ---
-name: Nicolas Joly of Microsoft Corporation
+name: Nicolas Joly
 alias: nicolas-joly
 nationality: gb
 twitter: n_joly
