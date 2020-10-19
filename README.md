@@ -2,6 +2,8 @@
 
 This is an official cvebase repository that houses the open source content for CVE & Researcher data. Updates to this repository are regularly synced with the CVE and Researcher profile pages at [www.cvebase.com](https://www.cvebase.com/).
 
+![](assets/cvebase_examples.png)
+
 ### What is cvebase?
 cvebase is a community-driven data platform for security vulnerabilities, developed for use by security researchers, penetration testers, and bug bounty hunters.
 
