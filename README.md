@@ -4,7 +4,7 @@
 
 This is the official data repository for cvebase, open to all and can be edited by anyone to collectively improve the CVE & Researcher pages. Updates are immediately synced with the content at [cvebase.com](https://www.cvebase.com/).
 
-### About cvebase
+## About cvebase
 cvebase is a community-driven data platform for security vulnerabilities, developed for use by security researchers, penetration testers, and bug bounty hunters.
 
 * Researcher profiles feature their published CVEs to date.
