@@ -1,5 +1,5 @@
 ---
-name: Matt Graeber of SpecterOps
+name: Matt Graeber
 alias: matt-graeber
 twitter: mattifestation
 linkedin: matt-graeber-1376bb162
