@@ -1,3 +1,7 @@
+<p align="center">
+<img src="assets/cvebase-logo.png" alt="cvebase" title="cvebase" />
+</p>
+
 This is the official data repository for cvebase, open to all and can be edited by anyone to collectively improve the CVE & Researcher pages. Updates are immediately synced with the content at [cvebase.com](https://www.cvebase.com/).
 
 ### About cvebase
