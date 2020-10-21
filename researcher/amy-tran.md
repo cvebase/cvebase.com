@@ -1,7 +1,6 @@
 ---
 name: Amy Tran
 alias: amy-tran
-nationality: vn
 cves:
     - CVE-2020-14822
     - CVE-2020-14831
