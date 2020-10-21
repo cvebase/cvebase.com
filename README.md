@@ -1,24 +1,25 @@
-# cvebase.com
+<p align="center">
+<img src="assets/cvebase-logo.png" alt="cvebase" title="cvebase" />
+</p>
 
-This is an official cvebase repository that houses the open source content for CVE & Researcher data. Updates to this repository are regularly synced with the CVE and Researcher profile pages at [www.cvebase.com](https://www.cvebase.com/).
+This is the official data repository for cvebase, open to all and can be edited by anyone to collectively improve the CVE & Researcher pages. Updates are immediately synced with the content at [cvebase.com](https://www.cvebase.com/).
 
-### What is cvebase?
-cvebase is a community-driven data platform for security vulnerabilities, developed for use by security researchers, penetration testers, and bug bounty hunters.
+## About cvebase
+The cvebase platform is a community-driven data platform for security vulnerabilities, developed for use by security researchers, penetration testers, and bug bounty hunters.  Here are the main features of cvebase:
 
-Features:
-* Researcher bios featuring their published CVEs to date
-* Community commentary enhancing and clarifying official CVE advisories
-* Comprehensive references to proof-of-concept exploits
-* Alternative vendor/product metadata for missing or incomplete Common Platform Enumerations (CPE)
+* Comprehensive real time vulnerability disclosures.
+* Verified Security Researcher profiles featuring published CVEs to date.
+* Community driven enhancements and clarifications to official CVE vendor advisories.
+* References link to valid Proof-of-Concept Exploits and detailed technical writeups.
 
-## Usage
-CVE files are located in the `/cve/` directory, organized by year and sequence identifier following the convention set by [`CVEProject/cvelist`](https://github.com/CVEProject/cvelist):
+![](assets/cvebase_examples.png)
 
-> Information about each CVE id is stored as a unique file in the repo in a subdirectory based on the year as well as the numeric portion of the id, truncated by 1,000. Thus,  2017/3xxx is for CVE-2017-3000 - CVE-2017-3999, and 2017/1002xxx is for CVE-2017-1002000 - CVE-2017-1002999.
+## About this repository
+This repository contains the Markdown files for the two main components of cvebase.com:
+* `cve`: CVE files are located in the `/cve/` directory, organized by year and sequence identifier following the naming scheme set by [`CVEProject/cvelist`](https://github.com/CVEProject/cvelist).
+* `researcher`: Researcher profiles are in the `/researcher/` directory, named by researcher slug.
 
-Researcher profiles are in the `/researcher/` directory, named by researcher slug.
-
-Inspired by the popular static site generator [`gohugoio/hugo`](https://github.com/gohugoio/hugo) , the files are Markdown format with YAML-based "front matter" for metadata.
+Inspired by static site generator [`gohugoio/hugo`](https://github.com/gohugoio/hugo), the Markdown files have YAML "front matter" to define metadata for both CVEs and Researchers.
 
 See example files here:
 * [/cve/2020/15xxx/CVE-2020-15505.md](https://raw.githubusercontent.com/cvebase/cvebase.com/main/cve/2020/15xxx/CVE-2020-15505.md)
