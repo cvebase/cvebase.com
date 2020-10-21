@@ -7,6 +7,7 @@ github: zer0mem
 linkedin: peter-hlavaty-3ba62469
 website: http://www.zer0mem.sk
 cves:
+    - CVE-2016-0176
     - CVE-2016-3332
     - CVE-2016-3333
     - CVE-2016-3334
@@ -26,7 +27,13 @@ cves:
     - CVE-2017-0161
     - CVE-2017-0297
     - CVE-2017-8561
+    - CVE-2017-8573
+    - CVE-2017-8574
     - CVE-2017-8664
+    - CVE-2018-8335
+    - CVE-2018-8436
     - CVE-2018-8437
+    - CVE-2019-0633
+    - CVE-2019-0635
 ---
 Senior Security Researcher at Tencent KEEN Security Lab
