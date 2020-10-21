@@ -1,7 +1,6 @@
 ---
 name: Chi Tran
 alias: chi-tran
-nationality: vn
 website: https://ctrsec.io
 linkedin: chitd
 twitter: 0xfatty
