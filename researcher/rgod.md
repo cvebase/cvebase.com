@@ -4,6 +4,8 @@ alias: rgod
 website: http://www.9sgsec.com
 twitter: rgod777
 cves:
+    - CVE-2016-0148
+    - CVE-2019-0537
     - CVE-2019-0580
     - CVE-2019-0581
     - CVE-2019-0582
@@ -20,8 +22,10 @@ cves:
     - CVE-2019-0672
     - CVE-2019-0673
     - CVE-2019-0674
+    - CVE-2019-0801
     - CVE-2019-0826
     - CVE-2019-0827
+    - CVE-2019-0890
     - CVE-2019-0891
     - CVE-2019-0894
     - CVE-2019-0895
@@ -30,7 +34,12 @@ cves:
     - CVE-2019-0902
     - CVE-2019-0906
     - CVE-2019-0908
+    - CVE-2019-1146
+    - CVE-2019-1147
+    - CVE-2019-1157
     - CVE-2019-1240
+    - CVE-2019-1242
     - CVE-2019-1247
+    - CVE-2019-1249
 ---
 rgod of 9sg Security Team, working with Trend Micro's Zero Day Initiative
