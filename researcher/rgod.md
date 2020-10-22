@@ -1,8 +1,9 @@
 ---
-name: rgod
+name: Andrea Micalizzi
 alias: rgod
-website: http://www.9sgsec.com
+website: http://retrogod.altervista.org
 twitter: rgod777
+linkedin: andrea-micalizzi-03809a95
 cves:
     - CVE-2010-0904
     - CVE-2010-0906
@@ -311,4 +312,4 @@ cves:
     - CVE-2020-9649
     - CVE-2020-9650
 ---
-rgod of 9sg Security Team, working with Trend Micro's Zero Day Initiative
+rgod of 9sg Security Team, working with Trend Micro's Zero Day Initiativea. rgod is for the tibetan "rgod-tsid-pa he-ru-ka". In 2019, rgod ranked #5 in Microsoft "MSRC Most Valuable Security Researchers" list, related to security research in Microsoft Windows Jet, Office, Visual Studio and Skype. At the moment, rgod is collaborating mainly with Vulnerability Report Programs.
