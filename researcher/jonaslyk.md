@@ -19,5 +19,6 @@ cves:
   - CVE-2020-1490
   - CVE-2020-1565
   - CVE-2020-1590
+  - CVE-2020-16938
 ---
 Jonas Lykkegård is a Reverse Engineer.
