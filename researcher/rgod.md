@@ -1,6 +1,7 @@
 ---
 name: Andrea Micalizzi
 alias: rgod
+nationality: it
 website: http://retrogod.altervista.org
 twitter: rgod777
 linkedin: andrea-micalizzi-03809a95
