@@ -312,4 +312,4 @@ cves:
     - CVE-2020-9649
     - CVE-2020-9650
 ---
-rgod of 9sg Security Team, working with Trend Micro's Zero Day Initiativea. rgod is for the tibetan "rgod-tsid-pa he-ru-ka". In 2019, rgod ranked #5 in Microsoft "MSRC Most Valuable Security Researchers" list, related to security research in Microsoft Windows Jet, Office, Visual Studio and Skype. At the moment, rgod is collaborating mainly with Vulnerability Report Programs.
+rgod of 9sg Security Team, working with Trend Micro's Zero Day Initiative. rgod is for the tibetan "rgod-tsid-pa he-ru-ka". In 2019, rgod ranked #5 in Microsoft "MSRC Most Valuable Security Researchers" list, related to security research in Microsoft Windows Jet, Office, Visual Studio and Skype. At the moment, rgod is collaborating mainly with Vulnerability Report Programs.
