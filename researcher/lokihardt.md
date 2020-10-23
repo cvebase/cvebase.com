@@ -4,6 +4,27 @@ alias: lokihardt
 nationality: kr
 twitter: lokihardt
 cves:
+    - CVE-2014-4477
+    - CVE-2014-8840
+    - CVE-2015-1069
+    - CVE-2015-1101
+    - CVE-2015-1140
+    - CVE-2015-1234
+    - CVE-2015-1674
+    - CVE-2015-1747
+    - CVE-2015-1748
+    - CVE-2015-3074
+    - CVE-2016-0158
+    - CVE-2016-0191
+    - CVE-2016-1034
+    - CVE-2016-1649
+    - CVE-2016-1796
+    - CVE-2016-1797
+    - CVE-2016-1806
+    - CVE-2016-1856
+    - CVE-2016-1961
+    - CVE-2016-3199
+    - CVE-2016-3231
     - CVE-2017-0070
     - CVE-2017-0071
     - CVE-2017-11764
@@ -81,4 +102,4 @@ cves:
     - CVE-2019-0567
     - CVE-2019-0568
 ---
-Junghoon Lee, better known as his online alias Lokihardt, is a security researcher for Google Project Zero. He has won hacking contests like Pwn2Own and PwnFest. He has briefly worked for Samsung SDS and done information security support for the Korean government in the past. Lee started hacking in 2012, at the age of 18.  
+Junghoon Lee, better known as his online alias Lokihardt, is a security researcher for Google Project Zero. He has won hacking contests like Pwn2Own and PwnFest. He has briefly worked for Samsung SDS and done information security support for the Korean government in the past. Lee started hacking in 2012, at the age of 18.
