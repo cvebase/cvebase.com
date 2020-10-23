@@ -4,7 +4,7 @@ alias: nattisamson
 nationality: et
 twitter: NattiSamson
 github: NattiSamson
-cve:
+cves:
 - CVE-2018-10636
 - CVE-2019-10947
 - CVE-2019-10949

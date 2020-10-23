@@ -1,7 +1,7 @@
 ---
 name: kimiya
 alias: kimiya
-cve:
+cves:
 - CVE-2014-7888
 - CVE-2014-7889
 - CVE-2014-7890

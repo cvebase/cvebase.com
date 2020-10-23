@@ -6,7 +6,7 @@ linkedin: stevenseeley
 twitter: steventseeley
 github: stevenseeley
 website: https://srcincite.io
-cve:
+cves:
 - CVE-2015-0495
 - CVE-2015-1830
 - CVE-2015-2602

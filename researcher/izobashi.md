@@ -5,7 +5,7 @@ nationality: us
 linkedin: mdeplante
 twitter: izobashi
 github: izobashi
-cve:
+cves:
 - CVE-2017-16717
 - CVE-2017-16733
 - CVE-2017-16735

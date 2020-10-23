@@ -2,7 +2,7 @@
 name: Abdul Aziz Hariri
 alias: abdhariri
 twitter: abdhariri
-cve:
+cves:
 - CVE-2010-1185
 - CVE-2010-1223
 - CVE-2010-3007
