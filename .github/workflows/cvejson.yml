@@ -31,6 +31,8 @@ jobs:
           python ../cvejson/cvejson.py --cvebase-path $GITHUB_WORKSPACE
           
           # push updated cve.json to cvejson-data
+          git config --local user.email "github@cvebase.com"
+          git config --local user.name "cve-ai"
           git add cve.json
           git commit -m "Update cve.json"
           git push "https://cve-ai:${{ secrets.GITHUB_TOKEN }}@github.com/cvebase/cvejson-data.git" HEAD:main --follow-tags
