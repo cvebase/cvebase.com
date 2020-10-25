@@ -28,7 +28,7 @@ jobs:
           # generate updated cve.json into cvejson-data repo
           git clone https://github.com/cvebase/cvejson-data.git
           cd cvejson-data
-          python ../cvejson/cvejson.py --path ../cvebase.com
+          python ../cvejson/cvejson.py --cvebase-path ../cvebase.com
           
           # push updated cve.json to cvejson-data
           git add cve.json
