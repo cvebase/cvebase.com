@@ -3,6 +3,8 @@ name: CI
 on:
   push:
     branches: [ main ]
+    paths:
+    - 'cve/**'
 
 jobs:
   build:
