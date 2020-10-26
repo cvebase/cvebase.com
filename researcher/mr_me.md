@@ -1,7 +1,7 @@
 ---
 name: Steven Seeley
 alias: mr_me
-nationality: aus
+nationality: au
 linkedin: stevenseeley
 twitter: steventseeley
 github: stevenseeley
