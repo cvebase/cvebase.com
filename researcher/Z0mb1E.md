@@ -1,7 +1,8 @@
 ---
 name: Z0mb1E
 alias: Z0mb1E
-cve:
+nationality: ru
+cves:
 - CVE-2019-12759
 - CVE-2019-18257
 - CVE-2019-18257
