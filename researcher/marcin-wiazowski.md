@@ -2,6 +2,7 @@
 name: Marcin Wiazowski
 alias: marcin-wiazowski
 cves:
+    - CVE-2016-3372
     - CVE-2017-11851
     - CVE-2018-0815
     - CVE-2018-0816
