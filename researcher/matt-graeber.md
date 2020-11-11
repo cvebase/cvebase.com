@@ -4,6 +4,10 @@ alias: matt-graeber
 twitter: mattifestation
 linkedin: matt-graeber-1376bb162
 cves:
+    - CVE-2017-0216
+    - CVE-2017-0218
+    - CVE-2017-0219
+    - CVE-2018-0854
     - CVE-2018-0854
     - CVE-2018-8200
     - CVE-2018-8204
