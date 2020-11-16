@@ -7,7 +7,6 @@ github: mwulftange
 cves:
     - CVE-2019-0594
     - CVE-2019-0604
-    - CVE-2019-0604
     - CVE-2019-1257
     - CVE-2019-1295
     - CVE-2019-1296

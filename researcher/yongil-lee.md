@@ -1,7 +1,7 @@
 ---
 name: Yongil Lee
 alias: yongil-lee
-twitter: 201_102
+twitter: '201_102'
 cves:
     - CVE-2019-1333
     - CVE-2019-1374
