@@ -1,0 +1,77 @@
+---
+name: Netanel Ben Simon
+alias: netanel-ben-simon
+twitter: netanelbensimon
+cves:
+    - CVE-2018-0802
+    - CVE-2018-12754
+    - CVE-2018-12755
+    - CVE-2018-12764
+    - CVE-2018-12765
+    - CVE-2018-12766
+    - CVE-2018-12767
+    - CVE-2018-12768
+    - CVE-2018-12839
+    - CVE-2018-12840
+    - CVE-2018-12848
+    - CVE-2018-12849
+    - CVE-2018-12850
+    - CVE-2018-12857
+    - CVE-2018-12859
+    - CVE-2018-12860
+    - CVE-2018-12861
+    - CVE-2018-12862
+    - CVE-2018-12863
+    - CVE-2018-12864
+    - CVE-2018-12865
+    - CVE-2018-12866
+    - CVE-2018-12867
+    - CVE-2018-12869
+    - CVE-2018-12870
+    - CVE-2018-12871
+    - CVE-2018-12872
+    - CVE-2018-12873
+    - CVE-2018-12874
+    - CVE-2018-12875
+    - CVE-2018-15927
+    - CVE-2018-15929
+    - CVE-2018-15930
+    - CVE-2018-15931
+    - CVE-2018-15932
+    - CVE-2018-15933
+    - CVE-2018-15934
+    - CVE-2018-15935
+    - CVE-2018-15936
+    - CVE-2018-15937
+    - CVE-2018-15938
+    - CVE-2018-15952
+    - CVE-2018-15953
+    - CVE-2018-15954
+    - CVE-2018-15955
+    - CVE-2018-15956
+    - CVE-2018-4985
+    - CVE-2018-5063
+    - CVE-2018-5064
+    - CVE-2018-5065
+    - CVE-2018-5068
+    - CVE-2018-5069
+    - CVE-2018-5070
+    - CVE-2018-8464
+    - CVE-2019-1014
+    - CVE-2019-1096
+    - CVE-2019-1159
+    - CVE-2019-1164
+    - CVE-2019-1256
+    - CVE-2019-1286
+    - CVE-2019-1365
+    - CVE-2019-7080
+    - CVE-2019-7081
+    - CVE-2020-0791
+    - CVE-2020-1054
+    - CVE-2020-1143
+    - CVE-2020-1247
+    - CVE-2020-1310
+    - CVE-2020-1510
+---
+Netanel Ben-Simon has been a security researcher at Check Point Software Technologies LTD for over a year. 
+Netanel is specialized in Windows exploitation (Userspace & Kernel) and fuzzers development for bug hunting and bounties.

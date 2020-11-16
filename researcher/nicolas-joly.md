@@ -4,6 +4,11 @@ alias: nicolas-joly
 nationality: gb
 twitter: n_joly
 cves:
+    - CVE-2015-3085
+    - CVE-2015-5106
+    - CVE-2015-5107
+    - CVE-2015-5109
+    - CVE-2015-5110
     - CVE-2016-7243
     - CVE-2017-0137
     - CVE-2017-0267
