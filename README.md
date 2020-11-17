@@ -7,10 +7,10 @@ This is the official data repository for cvebase. Updates to this repo are immed
 ## About cvebase
 cvebase is a community-driven vulnerability platform for security researchers, pentesters, and bug bounty hunters:
 
-* Follow security researchers and their latest disclosures: https://www.cvebase.com/researcher
-* Browse trending vulnerabilities: https://www.cvebase.com/cve
-* Discover PoC exploits: https://www.cvebase.com/cve/pocs
-* Learn to reverse CVEs: https://www.cvebase.com/lab
+* Follow security researchers and their latest disclosures: [www.cvebase.com/researcher](https://www.cvebase.com/researcher)
+* Browse trending vulnerabilities: [www.cvebase.com/cve](https://www.cvebase.com/cve)
+* Discover PoC exploits: [www.cvebase.com/poc](https://www.cvebase.com/poc)
+* Learn to reverse CVEs: [www.cvebase.com/lab](https://www.cvebase.com/lab)
 
 ![](assets/cvebase_examples.png)
 
