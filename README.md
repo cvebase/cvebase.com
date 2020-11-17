@@ -2,15 +2,15 @@
 <img src="assets/cvebase-logo.png" alt="cvebase" title="cvebase" />
 </p>
 
-This is the official data repository for cvebase, open to all and can be edited by anyone to collectively improve the CVE & Researcher pages. Updates are immediately synced with the content at [cvebase.com](https://www.cvebase.com/).
+This is the official data repository for cvebase. Updates to this repo are immediately synced with the [cvebase.com](https://www.cvebase.com/) web app. Pull requests for improving the content are open to all. 
 
 ## About cvebase
-The cvebase platform is a community-driven data platform for security vulnerabilities, developed for use by security researchers, penetration testers, and bug bounty hunters.  Here are the main features of cvebase:
+cvebase is a community-driven vulnerability platform for security researchers, pentesters, and bug bounty hunters:
 
-* Comprehensive real time vulnerability disclosures.
-* Verified Security Researcher profiles featuring published CVEs to date.
-* Community driven enhancements and clarifications to official CVE vendor advisories.
-* References link to valid Proof-of-Concept Exploits and detailed technical writeups.
+* Follow security researchers and their latest disclosures: https://www.cvebase.com/researcher
+* Browse trending vulnerabilities: https://www.cvebase.com/cve
+* Discover PoC exploits: https://www.cvebase.com/cve/pocs
+* Learn to reverse CVEs: https://www.cvebase.com/lab
 
 ![](assets/cvebase_examples.png)
 
