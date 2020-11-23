@@ -24,3 +24,4 @@ cves:
   - CVE-2020-24949
   - CVE-2020-13951
 ---
+Ngo Van Thien is a security researcher at Sun-Asterisk Inc.
