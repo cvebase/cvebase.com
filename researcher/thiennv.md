@@ -2,7 +2,6 @@
 name: Ngo Van Thien
 alias: thiennv
 nationality: vn
-website: https://www.linkedin.com/in/thien-ngo-van/
 twitter: thienbg93
 github: thiennv-2147
 linkedin: thien-ngo-van
