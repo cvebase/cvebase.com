@@ -23,9 +23,19 @@ This repository contains the Markdown files for the two main components of cveba
 
 Inspired by static site generator [`gohugoio/hugo`](https://github.com/gohugoio/hugo), the Markdown files have YAML "front matter" to define metadata for both CVEs and Researchers.
 
-See example files here:
+Reference these examples of CVE & Researcher files:
 * [/cve/2020/15xxx/CVE-2020-15505.md](https://raw.githubusercontent.com/cvebase/cvebase.com/main/cve/2020/15xxx/CVE-2020-15505.md)
 * [/researcher/orange.md](https://raw.githubusercontent.com/cvebase/cvebase.com/main/researcher/orange.md)
+
+### How to add a Security Researcher profile
+* Fork this repo `git clone https://github.com/cvebase/cvebase.com.git`
+* Create a markdown (`.md`) file in the `/researcher` directory. Name the file using researcher's handle if available (e.g. `rgod.md`), and if not use a slugged version of their full name (e.g. `qixun-zhao.md`).
+* Fill in the contents of the file -> front matter + bio:
+* For the front matter containing Security Researcher metadata, which is in YAML format:
+	* Section is identified by opening and closing three dashes (`---`)
+	* Minimum required  YAML field values are `name`, `alias`, and a list of `cves`
+	* Optional YAML field values are `nationality`, `website`, `twitter`, `github`, `linkedin`, `hackerone`, `bugcrowd`
+* Git commit & submit pull request on GitHub
 
 ## Project Roadmap
 
