@@ -52,5 +52,15 @@ View our roadmap and share your ideas:
 * Fork this repository and send a pull request
 * [Create an issue](https://github.com/cvebase/cvebase.com/issues) in this repository
 
+## Sponsored Research
+We are committed to working with, supporting, and contributing to new and existing open source projects that provide value to the security research community.
+
+* [Vulhub](https://github.com/vulhub/vulhub) - Vulnerable environments made easy through docker-compose
+* [Jaeles](https://github.com/jaeles-project/jaeles) - Quickly scan vulnerable targets with a powerful collection of detection signatures
+* [ffuf](https://github.com/ffuf/ffuf) - A fast web fuzzer for content discovery
+* [tomnomnom](https://github.com/tomnomnom) - Creator of httprobe, assetfinder, gf, and numerous other command-line security tools built in Go
+* [OWASP/Amass](https://github.com/OWASP/Amass) - In-depth DNS enumeration, attack surface mapping and external asset discovery
+* [Axiom](https://github.com/pry0cc/axiom) - A dynamic infrastructure framework to build and deploy cloud infrastructure for offensive security
+
 ## License
 Repository content licensed [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/).
