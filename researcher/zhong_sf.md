@@ -64,4 +64,3 @@ cves:
     - CVE-2020-0704
 ---
 zhong_sf of Qihoo 360 Vulcan Team
-
