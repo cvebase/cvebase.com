@@ -32,12 +32,12 @@ jobs:
       
       - name: Commit changes
         run: |
-          git config --local user.email "github@cvebase.com"
-          git config --local user.name "cve-ai"
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
           git commit -m "lint" -a
           
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.BOT_TOKEN }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: ${{ github.ref }}
