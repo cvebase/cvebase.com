@@ -9,6 +9,6 @@ hackerone: n1__
 cves:
     - CVE-2020-14181
     - CVE-2020-5902
-  - CVE-2020-6020
+    - CVE-2020-6020
 ---
 Mikhail Klyuchnikov, Security Researcher at Positive Technologies, OSCP. Hall of Fame at Google, Mastercard, Dropbox, Cisco, Citrix.
