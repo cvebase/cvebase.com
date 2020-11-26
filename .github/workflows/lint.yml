@@ -32,9 +32,12 @@ jobs:
       
       - name: Commit changes
         run: |
+          if [ -z "$(git status --porcelain)" ]; then
+            echo "No lint errors" && exit 0
+          fi
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git commit -m "lint" -a || echo "No lint errors" && exit 0
+          git commit -m "lint" -a
           
       - name: Push changes
         uses: ad-m/github-push-action@master
