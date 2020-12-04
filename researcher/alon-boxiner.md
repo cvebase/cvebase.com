@@ -18,4 +18,3 @@ cves:
     - CVE-2019-2705
 ---
 Alan Boxiner is an experienced security researcher at Check Point where he is researching and identifying vulnerabilities on web applications, windows features, IntelliJ IDEA, Eclipse, Android studio, and open source projects.
-

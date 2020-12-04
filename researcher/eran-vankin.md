@@ -18,4 +18,3 @@ cves:
     - CVE-2019-2705
 ---
 Eran Vankin is an experienced security researcher at Check Point with a demonstrated history of working in the computer and network security industry. Skilled in Python, PHP, JavaScript, Power shell, C#, JavaScript and GoLang. Strong information technology professional and vulnerability hunting graduated from home.
-

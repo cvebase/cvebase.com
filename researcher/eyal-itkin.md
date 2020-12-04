@@ -47,4 +47,4 @@ cves:
     - CVE-2020-9497
     - CVE-2020-9498
 ---
-Eyal Itkin is an experienced security researcher at Check Point exercising both white & black hat roles, depending on the project. Mainly focusing on embedded and network devices, sometimes with their C/C++ sources and sometimes using reverse engineering. 
+Eyal Itkin is an experienced security researcher at Check Point exercising both white & black hat roles, depending on the project. Mainly focusing on embedded and network devices, sometimes with their C/C++ sources and sometimes using reverse engineering.
