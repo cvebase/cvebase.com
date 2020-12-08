@@ -1,5 +1,5 @@
 ---
-name: expend20
+name: Simon Barsky
 alias: expend20
 twitter: expend20
 github: expend20
@@ -15,4 +15,4 @@ cves:
     - CVE-2020-1492
     - CVE-2020-1574
 ---
-expend20 is an Independent Security Researcher.
+Simon Barsky is an Independent Security Researcher.
