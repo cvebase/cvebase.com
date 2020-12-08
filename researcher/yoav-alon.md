@@ -60,7 +60,6 @@ cves:
     - CVE-2018-5070
     - CVE-2018-8464
     - CVE-2019-1014
-    - CVE-2019-1014
     - CVE-2019-1096
     - CVE-2019-1159
     - CVE-2019-1164
@@ -76,4 +75,4 @@ cves:
     - CVE-2020-1310
     - CVE-2020-1510
 ---
-Yoav Alon is the CTO of Orca Security and a security veteran with more than 12 years of experience. Before joining Orca Security, he was a Security Architect at Check Point, a Chief Architect at Hyperwise Security, and held security R&D positions within Unit 8200. 
+Yoav Alon is the CTO of Orca Security and a security veteran with more than 12 years of experience. Before joining Orca Security, he was a Security Architect at Check Point, a Chief Architect at Hyperwise Security, and held security R&D positions within Unit 8200.
