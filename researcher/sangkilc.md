@@ -1,7 +1,7 @@
 ---
 name: Sang Kil Cha
 alias: sangkilc
-nationality: sk
+nationality: kr
 twitter: sangkilc
 github: sangkilc
 cves:
