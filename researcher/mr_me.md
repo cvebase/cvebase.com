@@ -182,6 +182,7 @@ cves:
   - CVE-2018-0104
   - CVE-2018-0379
   - CVE-2018-1011
+  - CVE-2018-1021
   - CVE-2018-10351
   - CVE-2018-10352
   - CVE-2018-10353
@@ -214,6 +215,7 @@ cves:
   - CVE-2018-14304
   - CVE-2018-14311
   - CVE-2018-14312
+  - CVE-2018-14809
   - CVE-2018-14809
   - CVE-2018-14811
   - CVE-2018-14813
@@ -270,6 +272,7 @@ cves:
   - CVE-2018-7499
   - CVE-2018-7686
   - CVE-2018-7687
+  - CVE-2018-8423
   - CVE-2018-9952
   - CVE-2018-9953
   - CVE-2018-9954
@@ -291,6 +294,9 @@ cves:
   - CVE-2018-9973
   - CVE-2018-9975
   - CVE-2019-0575
+  - CVE-2019-0576
+  - CVE-2019-0577
+  - CVE-2019-0578
   - CVE-2019-11948
   - CVE-2019-11949
   - CVE-2019-11950
@@ -366,6 +372,9 @@ cves:
   - CVE-2020-12015
   - CVE-2020-12025
   - CVE-2020-12027
+  - CVE-2020-1440
+  - CVE-2020-1523
+  - CVE-2020-16875
   - CVE-2020-3239
   - CVE-2020-3240
   - CVE-2020-3243
@@ -375,6 +384,7 @@ cves:
   - CVE-2020-3250
   - CVE-2020-3791
   - CVE-2020-7493
+  - CVE-2020-8867
   - CVE-2020-8867
 ---
 Steven Seeley has years of experience in application security, reverse engineering and exploit development. Currently he is a Content Developer & Security Researcher for Offensive Security. Previously, Steven has been a member of the (in)famous Corelan Security Team and has taught advanced PHP vulnerability analysis and exploitation in Mexico at the Instituto Politécnico Nacional University. Steven continues to push to boundaries of application security research and enjoys collaborating research efforts with likeminded individuals.

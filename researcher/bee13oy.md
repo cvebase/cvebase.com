@@ -6,14 +6,18 @@ twitter: bee13oy
 github: bee13oy
 hackerone: bee13oy
 cves:
+  - CVE-2016-0095
   - CVE-2016-3249
   - CVE-2016-3309
   - CVE-2016-7202
   - CVE-2016-7215
+  - CVE-2016-7878
   - CVE-2017-0047
   - CVE-2017-0067
   - CVE-2017-0094
   - CVE-2017-0208
+  - CVE-2017-10950
+  - CVE-2017-3058
   - CVE-2017-8598
   - CVE-2018-0798
   - CVE-2018-0802

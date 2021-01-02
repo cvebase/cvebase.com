@@ -42,5 +42,7 @@ cves:
   - CVE-2020-1109
   - CVE-2020-1110
   - CVE-2020-1138
+  - CVE-2020-1169
+  - CVE-2020-1306
 ---
 Shefang Zhong of Qihoo 360 Vulcan Team

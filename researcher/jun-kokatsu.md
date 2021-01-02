@@ -18,5 +18,10 @@ cves:
   - CVE-2017-8724
   - CVE-2017-8736
   - CVE-2017-8754
+  - CVE-2018-0927
+  - CVE-2018-8351
+  - CVE-2018-8366
+  - CVE-2018-8564
+  - CVE-2019-1192
 ---
 Jun Kokatsu is a Senior Security Software Engineer at Microsoft.
