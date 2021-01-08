@@ -3,6 +3,7 @@ name: Guo Pengfei
 alias: guopengfei
 nationality: cn
 cves:
+  - CVE-2017-8467
   - CVE-2019-1228
   - CVE-2019-1407
   - CVE-2019-1433

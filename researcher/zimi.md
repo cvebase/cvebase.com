@@ -26,6 +26,11 @@ cves:
   - CVE-2019-1409
   - CVE-2020-0705
   - CVE-2020-0876
+  - CVE-2020-10756
+  - CVE-2020-14698
+  - CVE-2020-14699
+  - CVE-2020-14700
   - CVE-2020-1589
+  - CVE-2020-17397
 ---
 ZiMi of Alibaba Orion Security Lab

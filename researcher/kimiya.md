@@ -71,6 +71,8 @@ cves:
   - CVE-2020-16219
   - CVE-2020-16221
   - CVE-2020-16229
+  - CVE-2020-24434
+  - CVE-2020-24436
   - CVE-2020-7002
 ---
 kimiya of 9SG Security Team

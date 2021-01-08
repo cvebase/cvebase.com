@@ -10,5 +10,6 @@ cves:
   - CVE-2019-1406
   - CVE-2020-0729
   - CVE-2020-1421
+  - CVE-2020-28940
 ---
 Shih-Fong Peng is a Security Researcher at Trapa Security.

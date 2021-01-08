@@ -3,10 +3,15 @@ name: Jeong Oh Kyea
 alias: kkokkokye
 twitter: kkokkokye
 cves:
+  - CVE-2019-1169
+  - CVE-2019-1385
+  - CVE-2019-1422
+  - CVE-2019-1423
   - CVE-2019-1483
   - CVE-2020-0616
   - CVE-2020-0699
   - CVE-2020-0776
+  - CVE-2020-0792
   - CVE-2020-0794
   - CVE-2020-0840
   - CVE-2020-0841
