@@ -3,7 +3,6 @@ name: Nick Freeman
 alias: nick-freeman
 cves:
   - CVE-2017-11779
-  - CVE-2017-11779
   - CVE-2018-8225
   - CVE-2018-8304
   - CVE-2018-8438

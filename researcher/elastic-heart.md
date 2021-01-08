@@ -1,6 +1,6 @@
 ---
 name: Elastic Heart
-alias: elasticheart
+alias: elastic-heart
 cves:
   - CVE-2020-2681
   - CVE-2020-2689
