@@ -53,6 +53,10 @@ cves:
   - CVE-2020-1232
   - CVE-2020-1238
   - CVE-2020-1239
+  - CVE-2020-1319
   - CVE-2020-1400
+  - CVE-2020-16915
+  - CVE-2020-16967
+  - CVE-2020-16968
 ---
 Hossein Lotfi is a Senior Vulnerability Researcher at Trend Micro Zeroday Initiative where he develops exploits, performs source code auditing, reverse engineering & analyzes zero-day submissions for root cause, impact & criticality.

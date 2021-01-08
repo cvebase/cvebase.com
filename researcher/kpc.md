@@ -3,6 +3,7 @@ name: KPC
 alias: kpc
 cves:
   - CVE-2020-16245
+  - CVE-2020-16846
   - CVE-2020-3986
   - CVE-2020-3987
   - CVE-2020-4208

@@ -10,6 +10,7 @@ cves:
   - CVE-2019-1253
   - CVE-2020-1221
   - CVE-2020-1317
+  - CVE-2020-16939
   - CVE-2020-8095
 ---
 Nabeel Ahmed is an Independent Security Researcher.

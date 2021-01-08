@@ -5,7 +5,11 @@ nationality: tw
 twitter: _wmliang_
 github: wmliang
 cves:
+  - CVE-2017-8510
   - CVE-2017-8744
+  - CVE-2018-0741
+  - CVE-2018-0844
+  - CVE-2018-0846
   - CVE-2018-8207
   - CVE-2018-8345
   - CVE-2018-8346
@@ -26,9 +30,11 @@ cves:
   - CVE-2020-14695
   - CVE-2020-14703
   - CVE-2020-14704
+  - CVE-2020-17008
   - CVE-2020-17394
   - CVE-2020-2702
   - CVE-2020-3992
+  - CVE-2020-3999
   - CVE-2020-7454
 ---
 Lucas Leong is an Independent Security Researcher.

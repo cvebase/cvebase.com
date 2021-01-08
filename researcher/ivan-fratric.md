@@ -5,11 +5,17 @@ nationality: hr
 website: http://ifsec.blogspot.com
 twitter: ifsecure
 cves:
+  - CVE-2008-3013
+  - CVE-2009-0555
+  - CVE-2009-2503
+  - CVE-2016-3288
+  - CVE-2017-0037
   - CVE-2017-0059
   - CVE-2017-0202
   - CVE-2017-11793
   - CVE-2017-11810
   - CVE-2017-11855
+  - CVE-2017-11874
   - CVE-2017-11890
   - CVE-2017-11903
   - CVE-2017-11906
