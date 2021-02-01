@@ -1,12 +1,12 @@
 ---
 name: Aleksei Tiurin
 alias: greendog
-linkedin: aleksei-tiurin-23595736
+website: https://agrrrdog.blogspot.com/
 twitter: antyurin
 github: GrrrDog
+linkedin: aleksei-tiurin-23595736
 hackerone: greendog
-website: https://agrrrdog.blogspot.com/
 cves:
-    - CVE-2020-2950
+  - CVE-2020-2950
 ---
 Aleksei Tiurin Senior Security Researcher at Acunetix.
