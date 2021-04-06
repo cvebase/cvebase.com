@@ -7,12 +7,12 @@ twitter: Void_Sec
 github: VoidSec
 linkedin: paolostagno
 cves:
-  - CVE-2020-28054
   - CVE-2021-26237
   - CVE-2021-26236
   - CVE-2021-26235
   - CVE-2021-26234
   - CVE-2021-26233
+  - CVE-2020-28054
   - CVE-2020-1337
   - CVE-2019-11563
   - CVE-2020-9054
